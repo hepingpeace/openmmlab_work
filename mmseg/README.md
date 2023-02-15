@@ -10,3 +10,5 @@
 | background | 99.24 | 99.96 |
 
 | glomeruili | 56.49 | 57.72 |
+
+aAcc: 99.2500  mIoU: 77.8700  mAcc: 78.8400
